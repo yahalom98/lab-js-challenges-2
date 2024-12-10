@@ -1,4 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | JS Technical Challenges
 
@@ -35,24 +34,6 @@ Are you ready to put your coding skills to the test? In this exercise, you will 
 
 <br>
 
-## Requirements
-
-- Fork this repo.
-- Clone this repo.
-
-<br>
-
-## Submission
-
-- Upon completion, run the following commands:
-
-```bash
-git add .
-git commit -m "Solved lab"
-git push origin master
-```
-
-- Create a Pull Request and submit your assignment
 
 <br>
 
